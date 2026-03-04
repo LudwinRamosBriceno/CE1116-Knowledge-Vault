@@ -13,6 +13,7 @@ Similar al Product Backlog, este en particular es una lista de tareas o elemento
 ## 🔗 Connections
 - [[ Scrum]]
 - [[Product Backlog]]
+- [[User Story]]
 ## 💡 Personal Insight (Opcional)
 - 
 ## 🧾 Recursos (Opcional)

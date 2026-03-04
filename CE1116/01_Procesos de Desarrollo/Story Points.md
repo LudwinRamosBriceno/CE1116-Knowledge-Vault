@@ -14,6 +14,7 @@ Unidad de medida utilizada para expresar el esfuerzo relativo que se debe invert
 ## 🔗 Connections
 - [[ Scrum]]
 - [[Velocity]]
+- [[Planning Poker]]
 ## 💡 Personal Insight (Opcional)
 - 
 ## 🧾 Recursos (Opcional)

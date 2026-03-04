@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CE1116/01_Procesos de Desarrollo/Story Points.md",
+                "file": "CE1116/02_Requirimientos/Stakeholder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Story Points"
+              "title": "Stakeholder"
             }
           }
         ]
@@ -172,31 +172,34 @@
   },
   "active": "16479a2d1a65d29f",
   "lastOpenFiles": [
-    "CE1116/01_Procesos de Desarrollo/Story Points.md",
+    "Sin título.md",
+    "CE1116/02_Requirimientos/Stakeholder.md",
+    "CE1116/02_Requirimientos/Requerimientos Funcionales.md",
+    "CE1116/02_Requirimientos/Requerimientos No Funcionales.md",
+    "CE1116/02_Requirimientos/Requerimientos de Sistema.md",
+    "CE1116/02_Requirimientos/Requerimientos de Negocio.md",
+    "CE1116/02_Requirimientos/Entrevistas.md",
     "CE1116/01_Procesos de Desarrollo/Velocity.md",
-    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
+    "CE1116/01_Procesos de Desarrollo/Taskboard.md",
+    "CE1116/01_Procesos de Desarrollo/Story Points.md",
+    "CE1116/01_Procesos de Desarrollo/Sprint Planning.md",
     "CE1116/01_Procesos de Desarrollo/Sprint Backlog.md",
     "CE1116/01_Procesos de Desarrollo/Product Backlog.md",
+    "CE1116/01_Procesos de Desarrollo/Product Owner.md",
     "CE1116/01_Procesos de Desarrollo/Scrum.md",
+    "CE1116/01_Procesos de Desarrollo/Planning Poker.md",
     "CE1116/01_Procesos de Desarrollo/Filosofía ágil.md",
-    "CE1116/02_Requirimientos/Requerimientos No Funcionales.md",
-    "CE1116/02_Requirimientos/Requerimientos Funcionales.md",
-    "CE1116/02_Requirimientos/Requerimientos de Negocio.md",
-    "CE1116/02_Requirimientos/Stakeholder.md",
-    "CE1116/02_Requirimientos/Sin título.md",
-    "CE1116/02_Requirimientos/Entrevistas.md",
+    "CE1116/01_Procesos de Desarrollo/Definition of Done (DoD).md",
     "CE1116/05_Pruebas/Pruebas Unitarias.md",
+    "CE1116/05_Pruebas/Pruebas Funcionales.md",
+    "CE1116/01_Procesos de Desarrollo/User Story.md",
+    "CE1116/00_Inbox 1/Requerimientos de Sistema.md",
+    "CE1116/00_Inbox 1/Ejemplo Nueva Nota.md",
+    "CE1116/00_Inbox 1",
+    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
+    "CE1116/02_Requirimientos/Sin título.md",
     "CE1116/08_Templates/Atomic Template.md",
-    "README.md",
-    "CE1116/06_Despliegue e Infrastructura/Azure DevOps.md",
-    "CE1116/03_Arquitectura y Diseño/Microservicios.md",
-    "CE1116/04_Implementación/Estándares de Programación.md",
-    "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
     "Untitled.canvas",
-    "CE1116/00_Inbox/test1.md",
-    "CE1116/00_Inbox/test.md",
-    "Untitled.md",
-    "Untitled 1.md",
     "CE1116/08_Templates",
     "CE1116/00_Inbox",
     "CE1116/07_Mantenimiento",
@@ -205,8 +208,6 @@
     "CE1116/06_Despliegue e Infrastructura",
     "CE1116/05_Pruebas",
     "CE1116/04_Implementación",
-    "CE1116/03_Arquitectura y Diseño",
-    "Welcome.md",
-    "CE1116/02_Requirimientos"
+    "CE1116/03_Arquitectura y Diseño"
   ]
 }

@@ -17,8 +17,7 @@ Es un marco de trabajo o un estilo de trabajo para el desarrollo complejo de sis
 - Artefactos usados en scrum (herramientas): Product Backlog, Sprint Backlog, TaskBoard, Burndow Charts y Definition of Done (DoD).
 ## 🔗 Connections
 - [[Entrevistas]]
-
 ## 💡 Personal Insight (Opcional)
 - 
 ## 🧾 Recursos (Opcional)
-- 
+- Presentación de Principios de Modelado en Ingeniería.

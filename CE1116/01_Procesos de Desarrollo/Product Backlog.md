@@ -14,6 +14,8 @@ Como su nombre lo indica, es la lista de productos pendientes del proyecto, es l
 
 ## 🔗 Connections
 - [[ Scrum]]
+- [[Sprint Backlog]]
+- [[User Story]]
 ## 💡 Personal Insight (Opcional)
 - 
 ## 🧾 Recursos (Opcional)
