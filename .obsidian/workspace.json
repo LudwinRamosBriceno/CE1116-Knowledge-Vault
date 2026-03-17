@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CE1116/02_Requirimientos/Stakeholder.md",
+                "file": "CE1116/Principios de IA/Función de Activación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stakeholder"
+              "title": "Función de Activación"
             }
           }
         ]
@@ -172,12 +172,24 @@
   },
   "active": "16479a2d1a65d29f",
   "lastOpenFiles": [
-    "Sin título.md",
+    "CE1116/Principios de IA/Ventana de Contexto.md",
+    "CE1116/Principios de IA/Tokenización.md",
+    "CE1116/Principios de IA/Embeddings.md",
+    "CE1116/Principios de IA/Redes Neuronales.md",
+    "CE1116/Principios de IA/Alucinaciones.md",
+    "CE1116/Principios de IA/Arquitectura Transformer.md",
+    "CE1116/Principios de IA/Mecanismos de atención.md",
+    "CE1116/Principios de IA/Función de Activación.md",
+    "CE1116/01_Procesos de Desarrollo/Scrum.md",
+    "CE1116/02_Requirimientos/Requerimientos de Negocio.md",
+    "CE1116/01_Procesos de Desarrollo/Filosofía ágil.md",
+    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
     "CE1116/02_Requirimientos/Stakeholder.md",
+    "CE1116/Principios de IA",
+    "Sin título.md",
     "CE1116/02_Requirimientos/Requerimientos Funcionales.md",
     "CE1116/02_Requirimientos/Requerimientos No Funcionales.md",
     "CE1116/02_Requirimientos/Requerimientos de Sistema.md",
-    "CE1116/02_Requirimientos/Requerimientos de Negocio.md",
     "CE1116/02_Requirimientos/Entrevistas.md",
     "CE1116/01_Procesos de Desarrollo/Velocity.md",
     "CE1116/01_Procesos de Desarrollo/Taskboard.md",
@@ -186,19 +198,8 @@
     "CE1116/01_Procesos de Desarrollo/Sprint Backlog.md",
     "CE1116/01_Procesos de Desarrollo/Product Backlog.md",
     "CE1116/01_Procesos de Desarrollo/Product Owner.md",
-    "CE1116/01_Procesos de Desarrollo/Scrum.md",
     "CE1116/01_Procesos de Desarrollo/Planning Poker.md",
-    "CE1116/01_Procesos de Desarrollo/Filosofía ágil.md",
-    "CE1116/01_Procesos de Desarrollo/Definition of Done (DoD).md",
-    "CE1116/05_Pruebas/Pruebas Unitarias.md",
-    "CE1116/05_Pruebas/Pruebas Funcionales.md",
-    "CE1116/01_Procesos de Desarrollo/User Story.md",
-    "CE1116/00_Inbox 1/Requerimientos de Sistema.md",
-    "CE1116/00_Inbox 1/Ejemplo Nueva Nota.md",
     "CE1116/00_Inbox 1",
-    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
-    "CE1116/02_Requirimientos/Sin título.md",
-    "CE1116/08_Templates/Atomic Template.md",
     "Untitled.canvas",
     "CE1116/08_Templates",
     "CE1116/00_Inbox",
@@ -207,7 +208,6 @@
     "Untitled",
     "CE1116/06_Despliegue e Infrastructura",
     "CE1116/05_Pruebas",
-    "CE1116/04_Implementación",
-    "CE1116/03_Arquitectura y Diseño"
+    "CE1116/04_Implementación"
   ]
 }
